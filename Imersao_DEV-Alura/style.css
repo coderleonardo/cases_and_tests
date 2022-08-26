@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(3, 169, 244);
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  
+header {
+    background-image: url('http://www.worldanvil.com/uploads/images/3232cbd3c06e934ae5ed77001c835743.jpg');
+    background-size: cover;
+    height: 80px;
+  }
+  
+section {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    margin-top: 100px;
+    background-color: white;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 22px 7px rgba(0,0,0,0.52); 
+    box-shadow: 0px 0px 22px 7px rgba(0,0,0,0.52);
+  }
+  
+div {
+    margin: 15px;
+    border: 1px solid black;
+    background-color: #bac3d6;
+    border-radius: 5px;
+  
+  }
+  
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(-50%);
+    border: 8px solid white;
+  }
+  
+section h1 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+div h2 {
+    text-align: center;
+  }
